@@ -1,27 +1,57 @@
 {
-  "shoes": [
+  "items": [
     {
       "id": 1,
-      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/coffee2.jpg",
+      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/coffee.jpg",
       "name": "Coffee",
-      "price": 10,
+      "price": 5,
       "color": "#e1e7ed",
       "inCart": false
     },
     {
       "id": 2,
-      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/burger2.jpg",
+      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/burger.jpg",
       "name": "Burger",
-      "description": "ABC",
-      "price": 20,
+      "price": 10,
       "color": "#4D317F",
       "inCart": false
     },
     {
       "id": 3,
       "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/pizza.jpg",
-      "name": "Burger",
-      "description": "ABC",
+      "name": "Pizza",
+      "price": 20,
+      "color": "#4D317F",
+      "inCart": false
+    },
+    {
+      "id": 4,
+      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/sandwich.jpg",
+      "name": "SandWich",
+      "price": 10,
+      "color": "#4D317F",
+      "inCart": false
+    },
+    {
+      "id": 5,
+      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/broastedchicken.jpg",
+      "name": "Broasted Chicken",
+      "price": 20,
+      "color": "#4D317F",
+      "inCart": false
+    },
+    {
+      "id": 6,
+      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/frenchfries.jpg",
+      "name": "French Fries",
+      "price": 5,
+      "color": "#4D317F",
+      "inCart": false
+    },
+    {
+      "id": 7,
+      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/mozarella.jpg",
+      "name": "Mozarella Sandwich",
       "price": 20,
       "color": "#4D317F",
       "inCart": false
