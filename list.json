@@ -16,6 +16,15 @@
       "price": 20,
       "color": "#4D317F",
       "inCart": false
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/pizza.jpg",
+      "name": "Burger",
+      "description": "ABC",
+      "price": 20,
+      "color": "#4D317F",
+      "inCart": false
     }
   ]
 }
