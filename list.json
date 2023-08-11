@@ -2,7 +2,7 @@
   "shoes": [
     {
       "id": 1,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/coffee.jpg",
       "name": "Coffee",
       "price": 10,
       "color": "#e1e7ed",
@@ -10,29 +10,11 @@
     },
     {
       "id": 2,
-      "image": "https://github.com/ShebinJoseJacob/SQ/blob/main/Img/burger.jpg",
+      "image": "https://raw.githubusercontent.com/ShebinJoseJacob/SQ/main/Img/burger.jpg",
       "name": "Burger",
-      "description": "",
+      "description": "ABC",
       "price": 20,
       "color": "#4D317F",
-      "inCart": false
-    },
-    {
-      "id": 3,
-      "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1315882/cruzrone-unisex-shoe-T2rRwS-removebg-preview.png",
-      "name": "Nike CruzrOne",
-      "description": "Designed for steady, easy-paced movement, the Nike CruzrOne keeps you going. Its rocker-shaped sole and plush, lightweight cushioning let you move naturally and comfortably. The padded collar is lined with soft wool, adding luxury to every step, while mesh details let your foot breathe. Thereâ€™s no finish lineâ€”thereâ€™s only you, one step after the next.",
-      "price": 100.97,
-      "color": "#E8D026",
-      "inCart": false
-    },
-    {
-      "id": 4,
-      "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1315882/epic-react-flyknit-2-mens-running-shoe-2S0Cn1-removebg-preview.png",
-      "name": "Nike Epic React Flyknit 2",
-      "description": "The Nike Epic React Flyknit 2 takes a step up from its predecessor with smooth, lightweight performance and a bold look. An updated Flyknit upper conforms to your foot with a minimal, supportive design. Underfoot, durable Nike React technology defies the odds by being both soft and responsive, for comfort that lasts as long as you can run.",
-      "price": 89.97,
-      "color": "#FD584A",
       "inCart": false
     }
   ]
